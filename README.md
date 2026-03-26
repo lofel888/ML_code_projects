@@ -1,6 +1,6 @@
 ## ML_code_projects
 
-Классическое ML, Computer Vision, NLP, RAG-системы.
+Классическое ML, Computer Vision, NLP, RAG-системы, Time Series
 
 ---
 
